@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 лооаллььть
+=======
+dadadad
+nado dobavit
+>>>>>>> a9a7ec55c575530eea3acdb31603d314efd23b3f
