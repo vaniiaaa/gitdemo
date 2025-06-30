@@ -2,3 +2,5 @@ hello my friend
 new hello ahahaha
 new add text 2
 new pull text
+git gui
+git gui 3
