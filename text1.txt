@@ -4,3 +4,4 @@ new add text 2
 new pull text
 git gui
 git gui 3
+git commit new
